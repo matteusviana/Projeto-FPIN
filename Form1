@@ -1,0 +1,18 @@
+ 
+<html>
+
+<body>
+<h1 align="center" font-color="blue">
+  CADASTRO CLINTES DA NOVACL&IacuteNICA
+</h1 >
+<form action="cadclientes.php" method ="POST">
+<p>Nome:          <input type= "text" name= "nome" size= "30"> <br>
+CARTAO SUS :      <input type ="text" name= "CADSUS" size ="15"><br>
+Numero registro : <input type ="text" name ="NUMERO" size="20"><br>
+Endereco:         <input type="text" name= "endereco" size="50">
+ <br>
+<input type ="submit" value="CADASTRAR" name ="enviar"></p>
+</form>
+<p>&nbsp;</p>
+</body>
+</html>
